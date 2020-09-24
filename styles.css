@@ -1,0 +1,114 @@
+html {
+height : 100%;
+width:100%;
+}
+
+h1
+{
+	text-align: center;
+	font-size: 55px;
+}
+p
+{
+	font-size: 28px;
+	padding: 20px;
+	padding-left: 4%;
+	padding-right: 4%;
+	font-family: Segoe UI Semibold;
+
+}
+body
+{
+  padding: 0%;
+	margin: 0%;
+  background-attachment:fixed;
+  background-image: url("foret.jpg");
+  text-align: center;
+}
+.gras
+{
+	font-family: Segoe UI Black;
+	color :#006400;
+}
+.devant{
+	position:relative;z-index:30;
+}
+.contour
+{
+	text-shadow: #FFFFFF 1px 1px, #FFFFFF -1px 1px, #FFFFFF -1px -1px, #FFFFFF 1px -1px;
+
+  font-family: Impact, sans-serif;
+}
+.image
+{
+  text-align: center;
+}
+/*case*/
+.case
+{
+	margin-right: auto;
+	margin-left: auto;
+	background-color: white;
+	width:75%;
+	text-align: justify;
+    border-radius: 20px;
+}
+a
+{
+	text-decoration: none;
+	color : #00FF00;
+}
+a:hover
+{
+	color:blue;
+}
+/*les vagues*/
+
+/*menu*/
+* {
+	-webkit-transition-property: all;
+	-webkit-transition-duration: .2s;
+ 	-moz-transition-timing-function: cubic-bezier(100,50,21,6);
+	-moz-transition-property: all;
+ 	-moz-transition-timing-function: cubic-bezier(100,50,21,6);
+}
+
+li
+{
+	display: inline-block;
+	margin-bottom: 2%;
+}
+
+.btn{
+  color:#999;
+  background:rgba(0, 0, 0, 0.5);
+  padding:15px 20px;
+  font-size:20px;
+
+  font-family: 'Oswald', sans-serif;
+  text-decoration:none;
+  letter-spacing:2px;
+  text-transform:uppercase;
+}
+
+.btn:hover{
+  border:none;
+  background:rgba(0, 0, 0, 0.4);
+  background:#fff;
+  padding:20px 20px; #000;
+  color:#1b1b1b;
+}
+
+.footer{
+  font-size:8px;
+  color:#fff;
+  clear:both;
+  display:block;
+  letter-spacing:5px;
+  border:1px solid #fff;
+  padding:5px;
+  text-decoration:none;
+  width:210px;
+  margin:auto;
+  margin-top:400px;
+}
