@@ -21,7 +21,7 @@ function showSpoiler(id)
     }
     if(id == 'Projets')
     {
-        boite.innerHTML="Réalisation d’un site Web dédié à STAR WARS(HTML,CSS,PHP).<br><br><div class='image'><img src='fondstarwars.png' width='700' height='300'></div></img><br>Réalisation d’une sonnette de porte, avec matériel Arduino grâce à une connexion radio.<br><br>Réalisation d’un module permettant la manipulation d’un Robot (Hercule 2000) à l’aide d’un joystick codé en Java.<div class='image'><img src='robot.png' width='400' height='700'></div>";
+        boite.innerHTML="Réalisation d’un site Web dédié à STAR WARS(HTML,CSS,PHP).<br><br><div class='image'><img src='fondstarwars.png' width='700' height='300'></div></img><br>Réalisation d’une sonnette de porte, avec matériel Arduino grâce à une connexion radio.<br><br>Réalisation d’un module permettant la manipulation d’un Robot (Hercule 2000) à l’aide d’un joystick codé en Java.<div class='image'><img src='robot.png' width='400' height='700'></img></div>";
     }
     if(id == 'Contact')
     {
