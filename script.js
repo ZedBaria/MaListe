@@ -17,7 +17,7 @@ function showSpoiler(id)
     }
     if(id == 'Compétences')
     {
-        boite.innerHTML="<span class='gras'>Maîtrise du Système Office</span><br><br><span class='gras'>Langages informatique :</span><br>C, C++<br>HTML, CSS, PHP, JavaScript<br>JAVA<br>LINUX<br><br><span class='gras'>Arduino : Codage et câblage</span>";
+        boite.innerHTML="<span class='gras'>Maîtrise du Système Office</span><br><br><span class='gras'>Langages informatique :</span><br>C, C++, C# formation en cours, JAVA<br>HTML, CSS, PHP, JavaScript<br>LINUX<br><br><span class='gras'>Arduino : Codage et câblage</span><br><br><span class='gras'>Arduino :</span><br> Codage et câblage";
     }
     if(id == 'Projets')
     {
