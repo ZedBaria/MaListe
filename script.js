@@ -9,7 +9,7 @@ function showSpoiler(id)
     }
     if(id == 'Formations')
     {
-        boite.innerHTML="<span class='gras'>Etudiant en Bachelor 3ème année</span><br>Octobre 2020<br>Entrée à l'école EPSI<br><br><span class='gras'>Formation en programmation WEB</span><br>Suivie sur le site Udemy proposant différents enseignements :<br>Programmation WEB : HTML/CSS/PHP/SQL/JAVASCRIPT<br><br><span class='gras'>Etudiant en BTS SNIR</span><br>Septembre 2018/Juillet 2020<br><br><span class='gras'>Baccalauréat STI2D AC</span><br>Juin 2018";
+        boite.innerHTML="<span class='gras'>Etudiant en Bachelor 3ème année à l'école EPSI (école d'ingénieurie informatique)</span><br>Octobre 2020<br><br><span class='gras'>Formation en programmation WEB</span><br>Suivie sur le site Udemy proposant différents enseignements :<br>Programmation WEB : HTML/CSS/PHP/SQL/JAVASCRIPT<br><br><span class='gras'>Etudiant en BTS SNIR</span><br>Septembre 2018/Juillet 2020<br><br><span class='gras'>Baccalauréat STI2D AC</span><br>Juin 2018";
     }
     if(id == 'Expériences')
     {
