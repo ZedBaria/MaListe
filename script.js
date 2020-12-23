@@ -17,7 +17,7 @@ function showSpoiler(id)
     }
     if(id == 'Compétences')
     {
-        boite.innerHTML="<span class='gras'>Maîtrise du Système Office</span><br><br><span class='gras'>Langages informatique :</span><br>C, C++, C# formation en cours, JAVA<br>HTML, CSS, PHP, JavaScript<br>LINUX<br><br><span class='gras'>Arduino : Codage et câblage</span><br><br><span class='gras'>Arduino :</span><br> Codage et câblage<br><br><span class='gras'>Notions :</span><br>Python<br>React Native<br><br><span class='gras'>Outils de Montage :</span><br>PhotoShop<br>Sony Vegas Pro";
+        boite.innerHTML="<span class='gras'>Maîtrise du Système Office</span><br><br><span class='gras'>Langages informatique :</span><br>C, C++, C# formation en cours, JAVA<br>HTML, CSS, PHP, JavaScript<br>LINUX<br><br><span class='gras'>Arduino :</span><br> Codage et câblage<br><br><span class='gras'>Notions :</span><br>Python<br>React Native<br><br><span class='gras'>Outils de Montage :</span><br>PhotoShop<br>Sony Vegas Pro";
     }
     if(id == 'Projets')
     {
