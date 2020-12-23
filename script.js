@@ -13,7 +13,7 @@ function showSpoiler(id)
     }
     if(id == 'Expériences')
     {
-        boite.innerHTML="<span class='gras'>Technicien Sharepoint (Stage) à Sogitec (filiale DASSAULT AVIATION)</span><br>Mai 2019 / Juin 2019<br><br>Stage en 1re année de BTS en gestion de base de données à l’aide de l’outil SharePoint<br><br><span class='gras'>Observation de Maintenance informatique</span><br>Février 2015<br><br>Stage d'observation dans le magasin STCEvente d'appareil d'informatique en tout genre";
+        boite.innerHTML="<span class='gras'>Technicien Sharepoint (Stage) à Sogitec (filiale DASSAULT AVIATION)</span><br>Mai 2019/Juin 2019<br><br>Stage en 1re année de BTS en gestion de base de données à l’aide de l’outil SharePoint<br><br><span class='gras'>Observation de Maintenance informatique</span><br>Février 2015<br><br>Stage d'observation dans le magasin STCEvente d'appareil d'informatique en tout genre";
     }
     if(id == 'Compétences')
     {
