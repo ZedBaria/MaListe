@@ -5,7 +5,7 @@ function showSpoiler(id)
         boite.style.display = "block"; //on l'affiche
     if(id == 'Description')
     { 
-        boite.innerHTML="Ayant obtenu mon BTS SNIR et étant inscrit à l'école EPSI la défense, je suis en recherche d'alternance en tant que développeur WEB. <br><br>Je me présente Mehdi PICHARD, agé de 20 ans, j'ai commencé à être passionné par l'informatique grâce à mon père et l'Arduino et depuis je m'intéresse à tout ce qui tourne autour de l'informatique.<br><br> J'ai réalisé différents projets en Arduino tous très passionnants.<br> Je suis intéressé dans le travail d'équipe, et j'adore travailler en groupe afin de mettre en commun nos idées";
+        boite.innerHTML="Ayant obtenu mon BTS SNIR et étant inscrit à l'école EPSI la Défense, je suis en recherche d'alternance en tant que développeur (Système et Web). <br><br>Je me présente Mehdi PICHARD, agé de 20 ans, passionné par l'informatique grâce à mon père qui pratique Arduino. Depuis je m'intéresse à tout ce qui tourne autour du développement informatique.<br><br> J'ai réalisé différents projets en Arduino tous très passionnants, qui m'ont permis de développer mes capacités à travailler en équipe.</p>";
     }
     if(id == 'Formations')
     {
