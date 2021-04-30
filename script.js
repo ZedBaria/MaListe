@@ -25,7 +25,7 @@ function showSpoiler(id)
     }
     if(id == 'Contact')
     {
-        boite.innerHTML="<span class='gras'>Numéro :</span> 07 84 27 94 42 <br><br> <span class='gras'>Email :</span> picharmehdi@gmail.com <br><br> <span class='gras'>Adresse : </span>36 rue Villebois Mareuil 92230, Gennevilliers <br><br> <span class='gras'>Linkedin :<a target='_blank' href='https://www.linkedin.com/in/mehdi-pichard/'> Allez-y </a></span>";
+        boite.innerHTML="<span class='gras'>Numéro :</span> 07 84 27 94 42 <br><br> <span class='gras'>Email :</span> picharmehdi@gmail.com <br><br> <span class='gras'>Adresse : </span>30 rue Georges Sand 92230, Gennevilliers <br><br> <span class='gras'>Linkedin :<a target='_blank' href='https://www.linkedin.com/in/mehdi-pichard/'> Allez-y </a></span>";
     }
 
 }
